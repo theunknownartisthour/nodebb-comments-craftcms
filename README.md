@@ -39,4 +39,4 @@ In its most basic case, this will result in output to your Craft template that l
 	</script>
 	<noscript>Please enable JavaScript to view comments</noscript>
 
-The `nodebbHost` setting is taken from the Admin CP settings, and the rest of the `DISQUS_*` settings are passed in as variables from the `nodeBBEmbed` Twig filter/function.
+The `nodebbHost` setting is taken from the Admin CP settings, and the rest of the settings are passed in as variables from the `nodeBBEmbed` Twig filter/function.
